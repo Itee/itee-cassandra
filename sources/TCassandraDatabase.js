@@ -9,7 +9,7 @@
  */
 
 import * as CassandraDriver  from 'cassandra-driver'
-import { TAbstractDatabase } from '../core/databases/TAbstractDatabase'
+import { TAbstractDatabase } from 'itee-database'
 
 class TCassandraDatabase extends TAbstractDatabase {
 
