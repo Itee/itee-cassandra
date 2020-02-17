@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Itee/itee-cassandra/compare/v1.0.0...v1.0.1) (2020-02-17)
+
+
+### Bug Fixes
+
+* **package:** the package lock still contain old package that need to be cleaned ([a6ddd86](https://github.com/Itee/itee-cassandra/commit/a6ddd860cfa92372b1f1157c4e16373986450658))
+
 # 1.0.0 (2020-02-16)
 
 
