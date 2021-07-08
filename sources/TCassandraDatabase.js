@@ -37,6 +37,7 @@ class TCassandraDatabase extends TAbstractDatabase {
             if ( err ) {
                 throw err
             }
+            // eslint-disable-next-line no-console
             console.log( result.rows[ 0 ] )
         } )
 
