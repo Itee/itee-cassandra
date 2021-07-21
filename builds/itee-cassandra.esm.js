@@ -1,4 +1,4 @@
-console.log('Itee.Database.Cassandra v1.0.2 - EsModule')
+console.log('Itee.Database.Cassandra v1.0.3 - EsModule')
 import * as CassandraDriver from 'cassandra-driver';
 import { TAbstractDatabase } from 'itee-database';
 
